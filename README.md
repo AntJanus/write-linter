@@ -19,7 +19,7 @@
 3. grade level (min, max)
 4. basic checks (used the same word twice by accident, period AFTER quote, etc.)
 
-## Config file
+## Config file `.writerc`
 
 ```js
 {
